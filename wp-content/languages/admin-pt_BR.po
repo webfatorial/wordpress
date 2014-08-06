@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2014-04-21 21:16:59+0000\n"
+"PO-Revision-Date: 2014-07-08 14:03:07+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2376,7 +2376,7 @@ msgstr "%s atrás"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:147
 msgid "Path"
-msgstr "Camihno"
+msgstr "Caminho"
 
 #: wp-admin/includes/class-wp-ms-sites-list-table.php:157
 #: wp-admin/includes/media.php:2141 wp-admin/users.php:54
