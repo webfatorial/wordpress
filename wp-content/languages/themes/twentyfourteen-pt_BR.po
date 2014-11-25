@@ -38,6 +38,7 @@ msgstr "Mais galerias"
 msgid "More asides"
 msgstr "Mais notas"
 
+#. translators: used with More archives link
 #: inc/widgets.php:206
 msgid "%s <span class=\"meta-nav\">&rarr;</span>"
 msgstr "%s <span class=\"meta-nav\">&rarr;</span>"
@@ -52,6 +53,7 @@ msgstr "destaque"
 msgid "Use this widget to list your recent Aside, Quote, Video, Audio, Image, Gallery, and Link posts."
 msgstr "Use esse widget para listar Quotes, Vídeos, Imagens, Galerias e links recentes em publicações"
 
+#. Theme URI of the plugin/theme
 msgid "http://wordpress.org/themes/twentyfourteen"
 msgstr "http://wordpress.org/themes/twentyfourteen"
 
@@ -93,6 +95,7 @@ msgstr "Nome da tag"
 msgid "Don&rsquo;t display tag on front end."
 msgstr "Não exibir a tag no site."
 
+#. Description of the plugin/theme
 msgid "In 2014, our default theme lets you create a responsive magazine website with a sleek, modern design. Feature your favorite homepage content in either a grid or a slider. Use the three widget areas to customize your website, and change your content's layout with a full-width page template and a contributor page to show off your authors. Creating a magazine website with WordPress has never been easier."
 msgstr "Em 2014, nosso tema padrão permite que você crie um site de revista responsivo com um design elegante e moderno. Destaque seu conteúdo favorito na Página Inicial em um grid ou em um slider. Use as três áreas de widgets para personalizar seu site, mude o layout de seu conteúdo com o modelo de página sem barra lateral e com a página de contribuidores para exibir os autores de seu site. Nunca foi tão fácil criar um site de revista no WordPress."
 
@@ -215,6 +218,7 @@ msgstr "Número de posts a exibir:"
 msgid "Post format to show:"
 msgstr "Formato de post a exibir:"
 
+#. Template Name of the plugin/theme
 msgid "Contributor Page"
 msgstr "Página do Colaborador"
 
@@ -301,6 +305,8 @@ msgstr "% Comentários"
 msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
 msgstr "Continue lendo <span class=\"meta-nav\">&rarr;</span>"
 
+#. #-#-#-#-#  twentyfourteen.pot (Twenty Fourteen 1.2)  #-#-#-#-#
+#. Author URI of the plugin/theme
 #: footer.php:21
 msgid "http://wordpress.org/"
 msgstr "http://wordpress.org/"
@@ -414,12 +420,16 @@ msgstr "Citações"
 msgid "Search Results for: %s"
 msgstr "Resultados da pesquisa por: %s"
 
+#. #-#-#-#-#  twentyfourteen.pot (Twenty Fourteen 1.2)  #-#-#-#-#
+#. Theme Name of the plugin/theme
 #: inc/customizer.php:99
 msgid "Twenty Fourteen"
 msgstr "Twenty Fourteen"
 
+#. Author of the plugin/theme
 msgid "the WordPress team"
 msgstr "a equipe do WordPress"
 
+#. Template Name of the plugin/theme
 msgid "Full Width Page"
 msgstr "Página com Largura Total"

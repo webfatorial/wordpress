@@ -10,6 +10,7 @@ msgstr ""
 "X-Generator: GlotPress/0.1\n"
 "Project-Id-Version: Network Admin\n"
 
+#. translators: 1: a filename like .htaccess. 2: a file path.
 #: wp-admin/network.php:477 wp-admin/network.php:513
 msgid "Add the following to your %1$s file in %2$s, <strong>replacing</strong> other WordPress rules:"
 msgstr "Adicione o seguinte %1$s ao seu arquivo em %2$s, <strong>substituindo</strong> outras regras do WordPress:"
@@ -223,6 +224,7 @@ msgstr "<a href=\"http://codex.wordpress.org/pt-br:Administrar_Rede_-_Temas\" ta
 msgid "Info"
 msgstr "Info"
 
+#. translators: 1: theme name, 2: theme author
 #: wp-admin/network/themes.php:142
 msgid "Are you sure you wish to delete these themes?"
 msgstr "Tem certeza que você quer excluir estes temas?"
