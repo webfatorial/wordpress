@@ -11,87 +11,87 @@ msgstr ""
 "Project-Id-Version: Administration\n"
 
 #. translators: 1: Term splitting guide link
-#: wp-admin/about.php:123
+#: wp-admin/about.php:127
 msgid "Terms shared across multiple taxonomies will be split when one of them is updated. Find out more in the <a href=\"%1$s\">Plugin Developer Handbook</a>."
 msgstr "Termos compartilhados por múltiplas taxonomias serão quebrados quando um deles for atualizado. Saiba mais no <a href=\"%1$s\">Handbook do Desenvolvedor de Plugins</a>."
 
-#: wp-admin/about.php:90
+#: wp-admin/about.php:94
 msgid "Switch themes in the Customizer"
 msgstr "Trocar temas no Personalizar"
 
-#: wp-admin/about.php:60
+#: wp-admin/about.php:64
 msgid "Clip it, edit it, publish it. Get familiar with the new and improved Press This. From the <a href=\"%s\">Tools</a> menu, add Press This to your browser bookmark bar or your mobile device home screen. Once installed you can share your content with lightning speed. Sharing your favorite videos, images, and content has never been this fast or this easy."
 msgstr "Recorte, edite e publique. Familiarize-se com o novo e melhorado Publique isso. No menu <a href=\"%s\">Ferramentas</a>, adicione o Publique isso a sua barra de favoritos ou à tela de início de seu dispositivo móvel. Depois de instalado você poderá compartilhar seu conteúdo com muita rapidez. Compartilhar seu vídeo, imagem e conteúdo favoritos nunca foi tão rápido ou fácil."
 
-#: wp-admin/about.php:59
+#: wp-admin/about.php:63
 msgid "An easier way to share content"
 msgstr "Um jeito mais fácil de compartilhar conteúdo"
 
-#: wp-admin/about.php:78
+#: wp-admin/about.php:82
 msgid "Extended character support"
 msgstr "Suporte estendido a caracteres"
 
-#: wp-admin/about.php:79
+#: wp-admin/about.php:83
 msgid "Writing in WordPress, whatever your language, just got better. WordPress 4.2 supports a host of new characters out-of-the-box, including native Chinese, Japanese, and Korean characters, musical and mathematical symbols, and hieroglyphs."
 msgstr "Escrever no WordPress, não importa o seu idioma, ficou muito melhor. O WordPress 4.2 suporta vários novos caracteres sem complicações, incluindo caracteres nativos chineses, japoneses e coreanos, símbolos musicais e matemáticos, e hieróglifos."
 
 #. translators: 1: WP_Query, 2: WP_Comment_Query, 3: WP_User_Query
-#: wp-admin/about.php:129
+#: wp-admin/about.php:133
 msgid "%1$s, %2$s, and %3$s now support complex ordering with named meta query clauses."
 msgstr "%1$s, %2$s, e %3$s agora suportam ordenação complexa de consultas com chaves dos metas."
 
 #. translators: 1: heart emoji, 2: frog face emoji, 3, monkey emoji, 4: pizza
 #. emoji, 5: Emoji Codex link
-#: wp-admin/about.php:82
+#: wp-admin/about.php:86
 msgid "Don&#8217;t use any of those characters? You can still have fun &mdash; emoji are now available in WordPress! Get creative and decorate your content with %1$s, %2$s, %3$s, %4$s, and all the many other <a href=\"%5$s\">emoji</a>."
 msgstr "Não usa nenhum daqueles caracteres? Você ainda pode se divertir &mdash; emojis agora estão disponíveis no WordPress! Seja criativo e decore seu conteúdo com %1$s, %2$s, %3$s, %4$s, e todos os vários outros <a href=\"%5$s\">emojis</a>."
 
-#: wp-admin/about.php:91
+#: wp-admin/about.php:95
 msgid "Browse and preview your installed themes from the Customizer. Make sure the theme looks great with <em>your</em> content, before it debuts on your site. "
 msgstr "Navegue e visualize seus temas instalados pelo Personalizar. Tenha certeza que o tema ficará ótimo com <em>seu</em> conteúdo, antes que ele estreie em seu site."
 
-#: wp-admin/about.php:96
+#: wp-admin/about.php:100
 msgid "Paste links from Tumblr.com and Kickstarter and watch them magically appear right in the editor. With every release, your publishing and editing experience get closer together."
 msgstr "Cole links do Tumblr.com e Kickstarter e veja eles aparecerem magicamente direto no editor. A cada novo release, sua experiência de publicação e edição se aproximam mais."
 
-#: wp-admin/about.php:95
+#: wp-admin/about.php:99
 msgid "Even more embeds"
 msgstr "Ainda mais incorporações"
 
-#: wp-admin/about.php:100
+#: wp-admin/about.php:104
 msgid "Streamlined plugin updates"
 msgstr "Atualização de plugins agilizada"
 
-#: wp-admin/about.php:101
+#: wp-admin/about.php:105
 msgid "Goodbye boring loading screen, hello smooth and simple plugin updates. Click <em>Update&nbsp;Now</em> and watch the magic happen."
 msgstr "Adeus tela chata de carregamento, olá atualizações tranquilas e simples de plugins. Clique em <em>Atualizar agora</em>e veja a mágica acontecer."
 
-#: wp-admin/about.php:110
+#: wp-admin/about.php:114
 msgid "utf8mb4 support"
 msgstr "Suporte a utf8mb4"
 
-#: wp-admin/about.php:111
+#: wp-admin/about.php:115
 msgid "Database character encoding has changed from utf8 to utf8mb4, which adds support for a whole range of new 4-byte characters."
 msgstr "A codificação de caracteres do banco de dados mudou de utf8 para utf8mb4, o que adiciona suporte a todo um conjunto de novos caracteres de 4 bytes."
 
 #. translators: %s wp.a11y.speak()
-#: wp-admin/about.php:116
+#: wp-admin/about.php:120
 msgid "You can now send audible notifications to screen readers in JavaScript with %s. Pass it a string, and an update will be sent to a dedicated ARIA live notifications area."
 msgstr "Agora você pode enviar notificações audíveis para leitores de tela em JavaScript com %s. Passe uma string e uma atualização será enviada para a área de notificações dedicada a ARIA."
 
-#: wp-admin/about.php:113
+#: wp-admin/about.php:117
 msgid "JavaScript accessibility"
 msgstr "JavaScript acessível"
 
-#: wp-admin/about.php:120
+#: wp-admin/about.php:124
 msgid "Shared term splitting"
 msgstr "Quebra de termos compartilhados "
 
-#: wp-admin/about.php:126
+#: wp-admin/about.php:130
 msgid "Complex query ordering"
 msgstr "Ordenação complexa de consulta"
 
-#: wp-admin/about.php:82
+#: wp-admin/about.php:86
 msgid "https://codex.wordpress.org/Emoji"
 msgstr "https://codex.wordpress.org/Emoji"
 
@@ -641,7 +641,7 @@ msgstr "Instalar o Publique isso"
 msgid "Bookmarklet"
 msgstr "Bookmarklet"
 
-#: wp-admin/about.php:61 wp-admin/tools.php:48
+#: wp-admin/about.php:65 wp-admin/tools.php:48
 msgid "Drag the bookmarklet below to your bookmarks bar. Then, when you&#8217;re on a page you want to share, simply &#8220;press&#8221; it."
 msgstr "Arraste o bookmarklet abaixo para a sua barra de favoritos. Em seguida, quando você estiver em uma página que você queira compartilhar, apenas pressione o botão."
 
@@ -3054,7 +3054,7 @@ msgstr "O grupo de opções de \"%s\" foi removido. Use outro grupo de configura
 msgid "The privacy options group has been removed. Use another settings group."
 msgstr "O grupo de opções de privacidade foi removido. Use outro grupo de configurações."
 
-#: wp-admin/includes/update-core.php:1177 wp-admin/update-core.php:433
+#: wp-admin/includes/update-core.php:1180 wp-admin/update-core.php:433
 msgid "Welcome to WordPress %1$s. You will be redirected to the About WordPress screen. If not, click <a href=\"%2$s\">here</a>."
 msgstr "Bem-vindo(a) ao WordPress %1$s. Você será redirecionado(a) à tela Sobre o WordPress. Se não, clique <a href=\"%2$s\">aqui</a>."
 
@@ -4142,12 +4142,12 @@ msgstr "Mostrar a Barra de Ferramentas ao ver site"
 msgid "Contributing Developers"
 msgstr "Desenvolvedores que também contribuem"
 
-#: wp-admin/about.php:47 wp-admin/about.php:174
+#: wp-admin/about.php:47 wp-admin/about.php:51 wp-admin/about.php:178
 msgid "For more information, see <a href=\"%s\">the release notes</a>."
 msgstr "Para mais informações, veja <a href=\"%s\">as notas de lançamento</a>."
 
 #. translators: 1: WordPress version number, 2: plural number of bugs.
-#: wp-admin/about.php:163
+#: wp-admin/about.php:167
 msgid "<strong>Version %1$s</strong> addressed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed %2$s bugs."
 msgstr[0] "A <strong>versão %1$s</strong> corrigiu %2$s bug."
@@ -4155,7 +4155,7 @@ msgstr[1] "A <strong>versão %1$s</strong> corrigiu %2$s bugs."
 
 #. translators: 1: WordPress version number, 2: plural number of bugs. Singular
 #. security issue.
-#: wp-admin/about.php:167
+#: wp-admin/about.php:171
 msgid "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bugs."
 msgstr[0] "A <strong>versão %1$s</strong> corrigiu um problema de segurança e %2$s bug."
@@ -4163,7 +4163,7 @@ msgstr[1] "A <strong>versão %1$s</strong> corrigiu um problema de segurança e 
 
 #. translators: 1: WordPress version number, 2: plural number of bugs. More
 #. than one security issue.
-#: wp-admin/about.php:171
+#: wp-admin/about.php:45 wp-admin/about.php:175
 msgid "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bugs."
 msgstr[0] "A <strong>versão %1$s</strong> corrigiu alguns problemas de segurança e %2$s bug."
@@ -4177,26 +4177,26 @@ msgstr "Bem vindo ao Painel do seu WordPress! Esta é a tela que você vai ver a
 msgid "What&#8217;s New"
 msgstr "O que há de novo"
 
-#: wp-admin/about.php:154
+#: wp-admin/about.php:158
 msgid "Maintenance Release"
 msgid_plural "Maintenance Releases"
 msgstr[0] "Release de Manutenção"
 msgstr[1] "Releases de Manutenção"
 
-#: wp-admin/about.php:44 wp-admin/about.php:155
+#: wp-admin/about.php:159
 msgid "Security Release"
 msgid_plural "Security Releases"
 msgstr[0] "Release de Segurança"
 msgstr[1] "Releases de Segurança"
 
-#: wp-admin/about.php:156
+#: wp-admin/about.php:44 wp-admin/about.php:160
 msgid "Maintenance and Security Release"
 msgid_plural "Maintenance and Security Releases"
 msgstr[0] "Release de Segurança e Manutenção"
 msgstr[1] "Releases de Segurança e Manutenção"
 
 #. translators: 1: WordPress version number.
-#: wp-admin/about.php:45 wp-admin/about.php:159
+#: wp-admin/about.php:49 wp-admin/about.php:163
 msgid "<strong>Version %1$s</strong> addressed a security issue."
 msgid_plural "<strong>Version %1$s</strong> addressed some security issues."
 msgstr[0] "A <strong>versão %1$s</strong> corrigiu um problema de segurança."
@@ -4206,11 +4206,11 @@ msgstr[1] "A <strong>versão %1$s</strong> corrigiu alguns problemas de seguran�
 msgid "This screen allows you to choose your default permalink structure. You can choose from common settings or create custom URL structures."
 msgstr "Esta tela permite que escolha as estrutura padrão para seu links permanentes. Escolha entre opções comuns ou crie uma estrutura de URL personalizada."
 
-#: wp-admin/includes/update-core.php:1178 wp-admin/update-core.php:434
+#: wp-admin/includes/update-core.php:1181 wp-admin/update-core.php:434
 msgid "Welcome to WordPress %1$s. <a href=\"%2$s\">Learn more</a>."
 msgstr "Bem-vindo ao WordPress%1$s. <a href=\"%2$s\">Saiba mais</a>."
 
-#: wp-admin/about.php:138
+#: wp-admin/about.php:142
 msgid "Return to Updates"
 msgstr "Voltar às Atualizações"
 
@@ -4506,11 +4506,11 @@ msgstr "Há inclusão direta em wp-admin/includes/template.php para usar add_met
 msgid "Welcome to WordPress %s"
 msgstr "Bem-vindo ao WordPress %s"
 
-#: wp-admin/about.php:138
+#: wp-admin/about.php:142
 msgid "Return to Dashboard &rarr; Updates"
 msgstr "Voltar ao Painel &rarr; Atualizações"
 
-#: wp-admin/about.php:142
+#: wp-admin/about.php:146
 msgid "Go to Dashboard &rarr; Home"
 msgstr "Ir para Painel &rarr; Início"
 
@@ -4522,7 +4522,7 @@ msgstr "O WordPress é criado por uma equipe mundial de pessoas apaixonadas."
 msgid "Core Developers"
 msgstr "Desenvolvedores do <i>Core</i> (parte principal do WordPress, excluindo temas e plugins)"
 
-#: wp-admin/about.php:106
+#: wp-admin/about.php:110
 msgid "Under the Hood"
 msgstr "Nos bastidores"
 
@@ -6790,7 +6790,7 @@ msgid "Update WordPress"
 msgstr "Atualizar WordPress"
 
 #: wp-admin/includes/class-wp-upgrader.php:2672
-#: wp-admin/includes/update-core.php:1174 wp-admin/update-core.php:432
+#: wp-admin/includes/update-core.php:1177 wp-admin/update-core.php:432
 msgid "WordPress updated successfully"
 msgstr "WordPress atualizado com sucesso"
 
@@ -6840,7 +6840,7 @@ msgid_plural "Must-Use <span class=\"count\">(%s)</span>"
 msgstr[0] "Indispensável <span class=\"count\">(%s)</span>"
 msgstr[1] "Indispensáveis<span class=\"count\">(%s)</span>"
 
-#: wp-admin/about.php:142
+#: wp-admin/about.php:146
 msgid "Go to Dashboard"
 msgstr "Ir para o painel"
 
@@ -7975,7 +7975,7 @@ msgstr "Não foi possível remover completamente o tema %s."
 msgid "Verifying the unpacked files&#8230;"
 msgstr "Verificando arquivos descompactados&#8230;"
 
-#: wp-admin/includes/update-core.php:1055
+#: wp-admin/includes/update-core.php:1058
 msgid "Upgrading database&#8230;"
 msgstr "Atualizando banco de dados&#8230;"
 
@@ -8894,7 +8894,7 @@ msgstr "A pasta de destino já existe."
 
 #: wp-admin/includes/class-wp-upgrader.php:133 wp-admin/includes/file.php:644
 #: wp-admin/includes/file.php:748 wp-admin/includes/file.php:799
-#: wp-admin/includes/update-core.php:1128
+#: wp-admin/includes/update-core.php:1131
 msgid "Could not create directory."
 msgstr "Não foi possível criar o diretório."
 
@@ -10195,7 +10195,7 @@ msgstr "Não foi possível extrair o arquivo."
 
 #: wp-admin/includes/file.php:664 wp-admin/includes/file.php:761
 #: wp-admin/includes/file.php:794 wp-admin/includes/update-core.php:1020
-#: wp-admin/includes/update-core.php:1123
+#: wp-admin/includes/update-core.php:1126
 msgid "Could not copy file."
 msgstr "Não foi possível copiar o arquivo."
 
@@ -10395,7 +10395,7 @@ msgstr "+ Adicionar nova categoria"
 msgid "Manage Themes"
 msgstr "Gerenciar temas"
 
-#: wp-admin/about.php:64 wp-admin/tools.php:16 wp-admin/tools.php:40
+#: wp-admin/about.php:68 wp-admin/tools.php:16 wp-admin/tools.php:40
 #: wp-admin/tools.php:51
 msgid "Press This"
 msgstr "Publique isso"

@@ -255,7 +255,7 @@ msgstr "Área de widgets"
 msgid "Social Links Menu"
 msgstr "Menu de links sociais"
 
-#. #-#-#-#-#  twentyfifteen.pot (Twenty Fifteen 1.1)  #-#-#-#-#
+#. #-#-#-#-#  twentyfifteen.pot (Twenty Fifteen 1.2)  #-#-#-#-#
 #. Author URI of the plugin/theme
 #: footer.php:25
 msgid "https://wordpress.org/"
